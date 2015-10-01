@@ -1,0 +1,19 @@
+Vista Ultimate x86 sp1 QA1 Jenya
+7 Ultimate x86 sp0 QA1 Jenya
+Vista Ultimate x86 sp2 QA1 Jenya
+XP Pro x86 sp3 QA1 Jenya
+XP Pro x86 sp2 QA1 Jenya
+Vista Ultimate x64 sp2 QA1 Jenya
+Vista Ultimate x86 sp0 QA1 Jenya
+XP Pro x64 sp2 QA1 Jenya
+Vista Ultimate x64 sp0 QA1 Jenya
+7 Ultimate x64 sp0 QA1 Jenya
+XP Pro x64 sp1 QA1 Jenya
+8.1 final x86 QA1 Jenya
+XP Pro x86 sp0 QA1 Jenya
+Vista Ultimate x64 sp1 QA1 Jenya
+8.1 final x64 QA1 Jenya
+7 Ultimate x86 sp1 QA1 Jenya
+XP Pro x86 sp1 QA1 Jenya
+7 Ultimate x64 sp1 QA1 Jenya
+

@@ -1,0 +1,26 @@
+[Office 6] Andrey/CentOS 6.4 Office6 Andrey/CentOS 6.4 Office6 Andrey.vmx
+[Office 6] Andrey/ClearOS 6.4 Office6 Andrey/ClearOS 6.4 Office6 Andrey.vmx
+[Office 6] Andrey/7 Ultimate x64 sp1 Office6 Andrey/7 Ultimate x64 sp1 Office6 Andrey.vmx
+[Office 6] Andrey/XP Pro x86 sp1 Office6 Andrey/XP Pro x86 sp1 Office6 Andrey.vmx
+[Office 6] Andrey/Vista Ultimate x64 sp1 Office6 Andrey/Vista Ultimate x64 sp1 Office6 Andrey.vmx
+[Office 6] Andrey/XP Pro x86 sp0 Fat32 Office6 Andrey/XP Pro x86 sp0 Fat32 Office6 Andrey.vmx
+[Office 6] Andrey/8.1 final x86 Office6 Andrey/8.1 final x86 Office6 Andrey.vmx
+[Office 6] Andrey/XP Pro x86 sp0 Office6 Andrey/XP Pro x86 sp0 Office6 Andrey.vmx
+[Office 6] Andrey/Vista Ultimate x86 sp0 Office6 Andrey/Vista Ultimate x86 sp0 Office6 Andrey.vmx
+[Office 6] Andrey/Vista Ultimate x64 sp0 Office6 Andrey/Vista Ultimate x64 sp0 Office6 Andrey.vmx
+[Office 6] Andrey/Vista Ultimate x86 sp1 Office6 Andrey/Vista Ultimate x86 sp1 Office6 Andrey.vmx
+[Office 6] Andrey/XP Pro x86 sp3 Office6 Andrey/XP Pro x86 sp3 Office6 Andrey.vmx
+[Office 6] Andrey/7 Ultimate x86 sp0 office6 Andrey/7 Ultimate x86 sp0 office6 Andrey.vmx
+[Office 6] Andrey/XP Pro x86 sp2 Office6 Andrey/XP Pro x86 sp2 Office6 Andrey.vmx
+[Office 6] Andrey/XP Pro x64 sp2 Office6 Andrey/XP Pro x64 sp2 Office6 Andrey.vmx
+[Office 6] Andrey/XP Pro x64 sp1 Office6 Andrey/XP Pro x64 sp1 Office6 Andrey.vmx
+[Office 6] Andrey/Vista Ultimate x64 sp2 Office6 Andrey/Vista Ultimate x64 sp2 Office6 Andrey.vmx
+[Office 6] Andrey/8 Pro x64 sp0 Office6 Andrey/8 Pro x64 sp0 Office6 Andrey.vmx
+[Office 6] Andrey/Vista Ultimate x86 sp2 Office6 Andrey/Vista Ultimate x86 sp2 Office6 Andrey.vmx
+[Office 6] Andrey/Vista Home x64 sp0 office6 Andrey/Vista Home x64 sp0 office6 Andrey.vmx
+[Office 6] Andrey/Vista Home x86 sp0 office6 Andrey/Vista Home x86 sp0 office6 Andrey.vmx
+[Office 6] Andrey/8 Home x64 sp0 office6 Andrey/8 Home x64 sp0 office6 Andrey.vmx
+[Office 6] Andrey/7 Home x86 sp0 office6 Andrey/7 Home x86 sp0 office6 Andrey.vmx
+[Office 6] Andrey/7 Home x64 sp0 office6 Andrey/7 Home x64 sp0 office6 Andrey.vmx
+[Office 6] Andrey/XP Home x86 sp0 office6 Andrey/XP Home x86 sp0 office6 Andrey.vmx
+[Office 6] Andrey/8 Home x86 sp0 office6 Andrey/8 Home x86 sp0 office6 Andrey.vmx
